@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Clone Demo\n");
+	printf("Add \n");
 	return 0;
 }
 
